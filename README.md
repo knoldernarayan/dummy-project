@@ -1,2 +1,2 @@
 # dummy-project
-dummy-project-a sample - cmd
+project-a sample - cmd
