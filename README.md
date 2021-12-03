@@ -1,2 +1,2 @@
 # dummy-project
-dummy-project-a sample - cmd
+dummy--report-project-a sample - cmd
